@@ -7,11 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -26,7 +22,7 @@ You can check out mobile and desktop images in desing folder.
 
 ### Links
 
-Check out this component as github live page.
+Check out this component as github live page. [Click to view QR-code-project](https://gwynbleidd0014.github.io/qr-code-project/)
 
 ### Built with
 
